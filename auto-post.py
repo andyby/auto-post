@@ -21,4 +21,5 @@ with open('./content/' + content_path, 'a') as f:
 
 os.system('git add .')
 os.system("git commit -m " + str(time.time()) + '.md')
+os.system('git push origin master')
 
