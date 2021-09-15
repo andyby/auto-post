@@ -21,5 +21,5 @@ with open('./content/' + content_path, 'a') as f:
 
 os.system('git add .')
 os.system("git commit -m " + str(time.time()) + '.md')
-os.system('git push origin master')
+os.system('git push https://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@github.com/andyby/auto-post.git')
 

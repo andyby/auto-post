@@ -18,5 +18,9 @@
 
 8. git init to initiate repo, 
    git add . and git commit -m 'init commit'
+
+git push https://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@github.com/andyby/auto-post.git
+
    git remote add origin https://github.com/andyby/auto-post.git
+
    git push origin master
