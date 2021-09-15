@@ -19,3 +19,6 @@ os.system(cmd)
 with open('./content/' + content_path, 'a') as f:
     f.write(adage)
 
+os.system('git add .')
+os.system("git commit -m " + str(time.time()) + '.md')
+

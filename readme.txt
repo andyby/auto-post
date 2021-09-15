@@ -15,3 +15,8 @@
 6. hugo server -D to check result 
 
 7. hugo -D to build final static site to public folder
+
+8. git init to initiate repo, 
+   git add . and git commit -m 'init commit'
+   git remote add origin https://github.com/andyby/auto-post.git
+   git push origin master
