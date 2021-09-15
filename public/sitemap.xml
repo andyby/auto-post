@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://example.org/adage/1631695891.69/</loc>
+    <lastmod>2021-09-15T16:51:31+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/adage/</loc>
+    <lastmod>2021-09-15T16:51:31+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/</loc>
+    <lastmod>2021-09-15T16:51:31+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/adage/1631695853.13/</loc>
+    <lastmod>2021-09-15T16:50:53+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/adage/1631695694.0/</loc>
+    <lastmod>2021-09-15T16:48:14+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/adage/1631694218.28/</loc>
+    <lastmod>2021-09-15T16:23:39+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/adage/1631693474.27/</loc>
+    <lastmod>2021-09-15T16:11:14+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/adage/1631692581.81/</loc>
+    <lastmod>2021-09-15T15:56:21+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/categories/</loc>
+  </url><url>
+    <loc>http://example.org/tags/</loc>
+  </url>
+</urlset>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Sep 2021 16:51:31 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1631695891</title>
+      <link>http://example.org/adage/1631695891.69/</link>
+      <pubDate>Wed, 15 Sep 2021 16:51:31 +0800</pubDate>
+      
+      <guid>http://example.org/adage/1631695891.69/</guid>
+      <description>CCI Power 6/40: one board, a megabyte of cache, and an attitude&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>1631695853</title>
+      <link>http://example.org/adage/1631695853.13/</link>
+      <pubDate>Wed, 15 Sep 2021 16:50:53 +0800</pubDate>
+      
+      <guid>http://example.org/adage/1631695853.13/</guid>
+      <description>My brain is my second favorite organ. &amp;ndash; Woody Allen</description>
+    </item>
+    
+    <item>
+      <title>1631695694</title>
+      <link>http://example.org/adage/1631695694.0/</link>
+      <pubDate>Wed, 15 Sep 2021 16:48:14 +0800</pubDate>
+      
+      <guid>http://example.org/adage/1631695694.0/</guid>
+      <description>&amp;ldquo;To take a significant step forward, you must make a series of finite improvements.&amp;rdquo; &amp;ndash; Donald J. Atwood, General Motors</description>
+    </item>
+    
+    <item>
+      <title>1631694218</title>
+      <link>http://example.org/adage/1631694218.28/</link>
+      <pubDate>Wed, 15 Sep 2021 16:23:39 +0800</pubDate>
+      
+      <guid>http://example.org/adage/1631694218.28/</guid>
+      <description>U:	There&amp;rsquo;s a U &amp;ndash; a Unicorn! Run right up and rub its horn. Look at all those points you&amp;rsquo;re losing! UMBER HULKS are so confusing. &amp;ndash; The Roguelet&amp;rsquo;s ABC</description>
+    </item>
+    
+    <item>
+      <title>1631693474</title>
+      <link>http://example.org/adage/1631693474.27/</link>
+      <pubDate>Wed, 15 Sep 2021 16:11:14 +0800</pubDate>
+      
+      <guid>http://example.org/adage/1631693474.27/</guid>
+      <description>The person who&amp;rsquo;s taking you to lunch has no intention of paying.</description>
+    </item>
+    
+    <item>
+      <title>1631692581</title>
+      <link>http://example.org/adage/1631692581.81/</link>
+      <pubDate>Wed, 15 Sep 2021 15:56:21 +0800</pubDate>
+      
+      <guid>http://example.org/adage/1631692581.81/</guid>
+      <description>Penguin Trivia #46: Animals who are not penguins can only wish they were. &amp;ndash; Chicago Reader 10/15/82</description>
+    </item>
+    
+  </channel>
+</rss>
